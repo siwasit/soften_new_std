@@ -40,17 +40,6 @@ const Homepage = () => {
                         </div>
                     </form>
                 </div>
-
-                {/* <form className='d-md-flex justify-content-center text-light mt-4'>
-                        <div className='input-group'>
-                        <input type="search" className="form-control" placeholder="รหัสนักศึกษา" aria-label="Search" aria-describedby="search-addon" />
-                        <button type="submit" className="btn input-group-text border-0" style={{ backgroundColor: '#fd7d14cf' }} id="search-addon">
-                            <FontAwesomeIcon icon={faMagnifyingGlass} />
-                        </button>
-                        </div>
-                    </form> */}
-                {/* <Link className='btn btn-primary' to='/hint'>hint</Link>
-                <Link className='btn btn-primary' to='/matchmethod'>method</Link> */}
             </div>
             <Footer />
         </>
